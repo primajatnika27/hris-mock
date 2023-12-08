@@ -5,6 +5,7 @@ This project using clean architecture patern and Providers for State management
 
 # How To Install
 Generate library using command "Flutter pub get"
+
 Generate build runner using command "dart run build_runner build"
 
 # Project Tree
